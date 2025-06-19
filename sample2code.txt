@@ -1,1 +1,4 @@
 sample2 code 
+
+now we are going to practice the pull command of the github
+
